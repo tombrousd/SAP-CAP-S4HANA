@@ -9,6 +9,9 @@ The following steps were the guidance of this project :
 - Register S/4 HANA Cloud in the SAP BTP Cockpit.
 - Testing & using S/4 HANA Cloud for the application.
 
+Objectifs :
+- Connect an API to the application CAP
+- Integrate the API to the S/4 HANA Cloud services
 
 ## Contributing
 
